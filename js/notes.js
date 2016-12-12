@@ -54,8 +54,6 @@ angular.module('carFire').service('carsSvc', function($firebaseObject, $firebase
     return $firebaseArray(ref);
   }
 });
-Status API Training Shop Blog About Pricing© 2016 GitHub, Inc.Terms Privacy Security Contact Help
-
 
 
 // angular.module('carFire').service('carsSvc', function($firebaseObject, $firebaseArray) {
